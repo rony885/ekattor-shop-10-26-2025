@@ -3,7 +3,6 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-
 const FeaturedProduct = () => {
   // productData.js
   const products = [
@@ -153,8 +152,7 @@ const FeaturedProduct = () => {
     },
   ];
 
-
-    const settings = {
+  const settings = {
     dots: true,
     infinite: true,
     speed: 500,
@@ -338,13 +336,7 @@ const FeaturedProduct = () => {
         </div>
       </div>
     </section>
-
-    
   );
 };
 
 export default FeaturedProduct;
-
-
-
-

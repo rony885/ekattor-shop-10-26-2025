@@ -30,7 +30,6 @@ const Profile = () => {
           <div className="row">
             <div className="col">
               <div className="password-block">
-            
                 <div className="profile-info">
                   <div className="account-profile">
                     <div className="pro-img">
@@ -88,7 +87,7 @@ const Profile = () => {
                     </ul>
                   </div>
                 </div>
-           
+
                 <div className="profile-form profile-address">
                   <div className="billing-area">
                     <form>
@@ -173,7 +172,6 @@ const Profile = () => {
                     </form>
                   </div>
                 </div>
-          
               </div>
             </div>
           </div>

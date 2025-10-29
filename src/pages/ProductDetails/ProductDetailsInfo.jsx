@@ -18,7 +18,7 @@ import {
 
 const ProductDetailsInfo = () => {
   const [products, setProducts] = useState([]);
-  console.log(products);
+  // console.log(products);
   useEffect(() => {
     setProducts(prodactData);
   }, []);
@@ -34,7 +34,7 @@ const ProductDetailsInfo = () => {
   const findProduct =
     products && products.find((prod) => prod.id === parseInt(prodId));
 
-  console.log(findProduct);
+  // console.log(findProduct);
 
   // ✅ Big slider settings
   const bigSettings = {

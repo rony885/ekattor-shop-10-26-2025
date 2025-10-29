@@ -1,3 +1,4 @@
+import { X } from "lucide-react";
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -14,20 +15,7 @@ const VegaMobile = ({ vegaMobileOpen, closeMennuVegaMobile }) => {
           <div className="vega-close">
             <button className="vega-close-btn" onClick={closeMennuVegaMobile}>
               <span className="vega-close-icon">
-                <svg
-                  viewBox="0 0 24 24"
-                  width="24"
-                  height="24"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  fill="none"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  className="css-i6dzq1"
-                >
-                  <line x1="18" y1="6" x2="6" y2="18"></line>
-                  <line x1="6" y1="6" x2="18" y2="18"></line>
-                </svg>
+                <X size={24} strokeWidth={2} />
               </span>
             </button>
           </div>

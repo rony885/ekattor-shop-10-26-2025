@@ -1,7 +1,7 @@
 const blogPosts = [
   {
     id: 1,
-    img: "img/blog/blog1.jpg",
+    img: "/img/blog/blog1.jpg",
     title: "This book is Link treatise on",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -10,7 +10,7 @@ const blogPosts = [
   },
   {
     id: 2,
-    img: "img/blog/blog2.jpg",
+    img: "/img/blog/blog2.jpg",
     title: "The standard chunk of Lorem",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -19,7 +19,7 @@ const blogPosts = [
   },
   {
     id: 3,
-    img: "img/blog/blog3.jpg",
+    img: "/img/blog/blog3.jpg",
     title: "Repeat predefined chunks",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -28,7 +28,7 @@ const blogPosts = [
   },
   {
     id: 4,
-    img: "img/blog/blog4.jpg",
+    img: "/img/blog/blog4.jpg",
     title: "It is Link long established fact that",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -37,7 +37,7 @@ const blogPosts = [
   },
   {
     id: 5,
-    img: "img/blog/blog5.jpg",
+    img: "/img/blog/blog5.jpg",
     title: "All the lorem ipsum generators",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -46,7 +46,7 @@ const blogPosts = [
   },
   {
     id: 6,
-    img: "img/blog/blog6.jpg",
+    img: "/img/blog/blog6.jpg",
     title: "Lorem ipsum which looks",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -55,7 +55,7 @@ const blogPosts = [
   },
   {
     id: 7,
-    img: "img/blog/blog7.jpg",
+    img: "/img/blog/blog7.jpg",
     title: "Various versions have evolved over",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -64,7 +64,7 @@ const blogPosts = [
   },
   {
     id: 8,
-    img: "img/blog/blog8.jpg",
+    img: "/img/blog/blog8.jpg",
     title: "Various versions have evolved over",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
@@ -73,7 +73,7 @@ const blogPosts = [
   },
   {
     id: 9,
-    img: "img/blog/blog1.jpg",
+    img: "/img/blog/blog1.jpg",
     title: "Various versions have evolved over",
     desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. ...",
     date: "02",
